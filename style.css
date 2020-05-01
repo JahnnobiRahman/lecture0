@@ -1,0 +1,27 @@
+h1 {
+
+    text-align: center;
+    color: blue;
+
+
+}
+
+#top {
+    background-color: teal;
+    width: 100px;
+    height: 80px;
+    padding:20px;
+    margin:30px;
+
+}
+.name{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#uhho ::before {
+
+    font-style: italic;
+    font-size: 36px;
+    content: "\21d2 Click here: ";
+}
+
